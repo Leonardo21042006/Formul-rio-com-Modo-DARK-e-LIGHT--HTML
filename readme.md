@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 
 
-[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/LADING-PAGE/)
+[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Tela-Login-Light-Dark)
 
 ## 🛠️ Tecnologias 
 
